@@ -13,7 +13,7 @@ Air_Quality_Analysis/
 |   |-- cpcb_dly_aq_tamil_nadu-2014.csv
 |-- requirements.txt
 
-Instructions for Replicating the Analysis:
+How to Run the Analysis:
 
 Step 1: Clone the Repository
 Clone the GitHub repository containing the project's code and dataset. You can use the following command:
