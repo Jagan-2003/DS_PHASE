@@ -1,4 +1,4 @@
-                                                                     Air Quality Analysis Project
+                                                         Air Quality Analysis Project
 
 Introduction:
 This project aims to analyze air quality data in Tamil Nadu, providing insights into pollutant levels and trends. The analysis includes the calculation of average concentrations of SO2, NO2, and RSPM/PM10 across different monitoring stations, cities, or areas. Various visualization techniques are employed using Matplotlib and Seaborn to represent trends over time and spatial variations.
